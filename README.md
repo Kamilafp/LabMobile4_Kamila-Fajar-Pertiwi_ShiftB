@@ -85,7 +85,26 @@ PERTEMUAN 5
    ![image](https://github.com/user-attachments/assets/5256da08-8b54-434e-aa16-341e232469a5)
 
    Perbedaannya adalah, adanya penambahan logika untuk memproses aksi yang akan dilakukan oleh user, yang terdapat pada penambahan kode
-   
+   ![image](https://github.com/user-attachments/assets/d5fcbcd0-3d71-41d5-b62f-a505a78ed803)
+   kode tersebut adalah logika jika dilakukan aksi berupa pengeditan produk, else nya hanya akan mengubah bagian header karna pada dasarnya form pengeditan dan penambahan produk itu sama, hanya saya di form pengeditan akan mengakses id produk yang dipilih lalu akan ditampilkan pula data lama yang didapat dari database, dan nantinya dapat diupsate atau diedit oleh user
+
+6. Proses Delete Produk
+   Walaupun di program saya tidak dapat memunculkan page detail produk untuk melakukan aksi delete, akan tetapi lihat dari kode UI nya itu kemungkinan tampilannya akan mirip dengan UI dipertemuan sebelumnya, hanya berbeda pada bagian detail datanya
+   ![image](https://github.com/user-attachments/assets/6f6e40ca-5416-4fe2-876f-edda7a450d95)
+
+   Perbedaannya adalah, adanya penambahan logika untuk memproses aksi yang akan dilakukan oleh user, yang terdapat pada penambahan kode
+   ![image](https://github.com/user-attachments/assets/7420d676-7641-4904-9322-34bf557a4c4b)
+   Pada bagian ini:
+   ![image](https://github.com/user-attachments/assets/a790c74c-8dd0-4aaf-b214-9d5358139873)
+
+7. Proses Logout
+   ![image](https://github.com/user-attachments/assets/d819dddd-85c4-412d-b0c0-5a9f7a915507)
+
+   ![image](https://github.com/user-attachments/assets/b14e52a4-1caa-4ed1-9ce5-1185ecb77166)
+   Dari kode tersebut bisa dilihat ada logika ontap, yang nantinya akan bertanggung jawab dalam proses logout. Hasil dari proses logou itu sendiri adalah diredirect ulang ke halaman login, sehingga user harus login ulang   
+
+
+
 
    
    
