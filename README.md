@@ -81,6 +81,14 @@ PERTEMUAN 5
    Sepaham saya, karena di postman untuk mengatur api dimana api itu merupakan penghubung antara fe dan be, maka jika pengolahan data dipostman berhasil dan tidak ada kesalahan penulisan url ataupun kesalahan pengetikan yang berhubungan dengan terhubungnya fe dan be, seperti typo nama file, dll. maka crud seharusnya dapat berjalan, untuk kasus saya ini saya masih belum menemukan penyebab errornya
 
 5. Proses Update Produk
+   Walaupun di program saya tidak dapat memunculkan page detail produk untuk melakukan aksi update, akan tetapi lihat dari kode UI nya itu kemungkinan tampilannya akan mirip dengan UI dipertemuan sebelumnya
+   ![image](https://github.com/user-attachments/assets/5256da08-8b54-434e-aa16-341e232469a5)
+
+   Perbedaannya adalah, adanya penambahan logika untuk memproses aksi yang akan dilakukan oleh user, yang terdapat pada penambahan kode
+   ![image](https://github.com/user-attachments/assets/dc95f99d-d6ee-4d02-9238-3f4f9f9d2c64)
+
+   
+   
    
 
 
